@@ -3,6 +3,9 @@
 ## Overview
 This repository is a commpilation of several projects in the Codecademy Python course to practice working with functions, strings, lists, and dictionaries.
 
+## Resources
+Software: Python 3.7.6
+
 ## Reggie's Linear Regression
 This project uses functions to find a linear regression line (y = mx + b) for a dataset of multiple points. After creating a function which calculates the total error of a line through the datapoints, the program iterates through a list of m and b values to find which result in the smallest error.
 
